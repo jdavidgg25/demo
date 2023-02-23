@@ -1,2 +1,25 @@
-creado a las 10:02
-Mod a las 10:03
+# demo
+
+Mi primer repositorio de Git
+
+
+
+## Ejemplos de Texto
+
+-- ~~Texto tachado~~
+
+-- **Texto negrita**
+
+
+
+## Ejemplos de Tabla
+
+País    | Capital
+
+---------|-----------
+
+España  | Madrid
+
+Portugal | Lisboa
+
+Francia | París
